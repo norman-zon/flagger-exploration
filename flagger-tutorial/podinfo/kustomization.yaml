@@ -1,0 +1,5 @@
+namespace: flagger-exploration
+resources:
+  - hpa.yaml
+  - deployment.yaml
+
